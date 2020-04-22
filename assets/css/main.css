@@ -3748,7 +3748,7 @@ body.is-preload #banner > .inner {
   border-top: solid 1px rgba(212, 212, 255, 0.1);
   content: "";
   display: block;
-  margin-left: -3em;
+  margin-left: -10em;
   position: absolute;
   top: 0;
   width: calc(100vw + 3em);
