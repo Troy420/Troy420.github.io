@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
+/* @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic"); */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Teko:wght@700&display=swap");
 
 /*
 	Forty by HTML5 UP
@@ -278,6 +279,7 @@ i {
 
 p {
   margin: 0 0 2em 0;
+  font-family: "Montserrat", sans-serif;
 }
 
 h1,
@@ -290,6 +292,7 @@ h6 {
   font-weight: 600;
   line-height: 1.65;
   margin: 0 0 1em 0;
+  font-family: "Teko", sans-serif;
 }
 
 h1 a,
@@ -1896,6 +1899,7 @@ header.major > p {
   letter-spacing: 0.25em;
   margin-bottom: 0;
   text-transform: uppercase;
+  text-shadow: 1px 1px #000;
 }
 
 body.is-ie header.major > :first-child:after {
